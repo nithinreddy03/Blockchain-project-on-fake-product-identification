@@ -9,8 +9,8 @@
 ### Error : 
 Suppose you get 
 
-1.npm error : Install nodejs
+*npm error : Install nodejs
 
-2. Truffle error : Install truffle 
+*Truffle error : Install truffle 
 
 Install all these on your visual studio code terminal 
